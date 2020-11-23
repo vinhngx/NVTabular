@@ -31,8 +31,8 @@
         "type": "Data",
         "format": "Parquet",
         "slot_size_array": [10000000, 10000000, 3014529, 400781, 11, 2209, 11869, 148, 4, 977, 15, 38713, 10000000, 10000000, 10000000, 584616, 12883, 109, 37, 17177, 7425, 20266, 4, 7085, 1535, 64],
-        "source": "/raid/criteo/tests/test_dask/output/train/_file_list.txt",
-        "eval_source": "/raid/criteo/tests/test_dask/output/valid/_file_list.txt",
+        "source": "/data/test_dask/output/train/_file_list.txt",
+        "eval_source": "/data/test_dask/output/valid/_file_list.txt",
         "check": "None",
         "label": {
                 "top": "label",
